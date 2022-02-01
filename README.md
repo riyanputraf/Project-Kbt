@@ -1,6 +1,8 @@
 # Project-Kbt
 
 # Description
+CREATURE (Create Your Web) merupakan usaha yang menyediakan produk di bidang jasa yang memfasilitasi UMKM dalam pembuatan sebuah website. Produk yang ditawarkan merupakan produk website bagi UMKM, dimana UMKM akan mendapatkan sebuah halaman website wordpress beserta control panelnya untuk dikelola sendiri dengan pantauan dari kami sehingga UMKM tidak perlu ragu dalam pembuatan website maupun administrasi pendaftarannya. Karena garis besar bisnis kami nantinya akan memfasilitasi UMKM dalam pemasaran berbasis teknologi.
+
 # Features
   Theme
   
