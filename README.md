@@ -18,5 +18,12 @@ Cara install sangat mudah,
 5. Setelah itu download attachment
 6. Submit dan siap digunakan
 # Configuration
-1. 
+1. Setting admin/author pada saat import XML
+2. Konfigurasi network untuk berkomunikasi dengan pengguna
+3. Konfigurasi template di network
+4. Konfigurasi User baru untuk mendapatkan site dari email
 # Copyrights
+Kewirausahaan berbasis Teknologi
+Nama TIM
+Syaifuddin,.S.kom,.M.kom
+Universitas Muhammadiyah malang
