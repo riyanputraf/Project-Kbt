@@ -3,11 +3,15 @@
 # Description
 # Features
   Theme
+  
   -> Bosa Shop
   
   Fiture
+  
   -> Demo on website
+  
   -> Multisite 
+  
   -> Transaction
 # Installation
 Cara install sangat mudah,
@@ -28,4 +32,5 @@ Kewirausahaan berbasis Teknologi
 "Creatures"
 
 Syaifuddin,.S.kom,.M.kom
+
 Universitas Muhammadiyah malang
