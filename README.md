@@ -24,6 +24,8 @@ Cara install sangat mudah,
 4. Konfigurasi User baru untuk mendapatkan site dari email
 # Copyrights
 Kewirausahaan berbasis Teknologi
-Nama TIM
+
+"Creatures"
+
 Syaifuddin,.S.kom,.M.kom
 Universitas Muhammadiyah malang
